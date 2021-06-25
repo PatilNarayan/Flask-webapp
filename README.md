@@ -1,4 +1,4 @@
-# Flask-webaspp
+# Flask-webapp
 Deploy a web application on heroku using Git repository on local system.
 		 
      
